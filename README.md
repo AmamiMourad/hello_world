@@ -1,6 +1,6 @@
 # hello_world
 My first repository
-ce message est un nouveau edit qui est tout à fait nouveau !
+ce message est un brand nouveau edit qui est tout à fait nouveau !
 
 
 
