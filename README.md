@@ -1,5 +1,3 @@
 # hello_world
 My first repository
-I do now some changes in my ropo in the branch readme_edits
-bababbababababababdlfjljdsf
-lfjkljsdflkjds
+ce message est un nouveau edit qui est tout à fait nouveau !
